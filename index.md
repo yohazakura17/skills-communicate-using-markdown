@@ -11,3 +11,5 @@
 ###### This is a H6 Header
 
 Great! I made 6 Headers.
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
